@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-# File: guessgame.sh
+# File: guessinggame.sh
 
 numFiles=$(ls -1|wc -l)
 guessedNum=-1
